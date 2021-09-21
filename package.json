@@ -4,6 +4,7 @@
 	"description": "this is so damn hard",
 	"gitrepo": "https://github.com/mjwrites/backend-dev",
 	"glitchrepo": "https://fortunate-sulfuric-moon.glitch.me/",
+	"keywords": ["hard", "not easy", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
