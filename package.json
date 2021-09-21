@@ -5,6 +5,7 @@
 	"gitrepo": "https://github.com/mjwrites/backend-dev",
 	"glitchrepo": "https://fortunate-sulfuric-moon.glitch.me/",
 	"keywords": ["hard", "not easy", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
