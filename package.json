@@ -6,6 +6,7 @@
 	"glitchrepo": "https://fortunate-sulfuric-moon.glitch.me/",
 	"keywords": ["hard", "not easy", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
